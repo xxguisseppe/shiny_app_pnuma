@@ -56,7 +56,7 @@ ui <- bootstrapPage(navbarPage(title = tags$a(href ="/",
 
 )
 
-server <- function(input, output, session){
+server <- function(input, output){
   
   #--- Palete Color Map
   pal <- str_sort(unique(file_shape$SECTOR))
