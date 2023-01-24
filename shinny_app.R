@@ -18,7 +18,7 @@ file_shape <- rgdal::readOGR("./SECTORES/SECTORES.shp")
 #shp_fusion <- sp::merge(file_shape, df, by.x = "SECTOR", by.y = "sec")
 umbral <- read.table("UMBRAL_v2.txt", header = T,sep = "\t")
 
-ui <- bootstrapPage(navbarPage(title = tags$a(href ="/",
+ui <- navbarPage(title = tags$a(href ="/",
                                               img(class = "logo", src = "LOGO_CDC.png",#)), 
                                                   style ="margin-top: -8px; padding-right:5px",#;
                                                   #     padding-bottom: 10px", 
@@ -52,7 +52,7 @@ ui <- bootstrapPage(navbarPage(title = tags$a(href ="/",
                                tabPanel(title = tags$h5(tags$b("DENGUE4")),
                                         actionButton(inputId = "PISCO", label = "PISCO - DATASET"),
                                         actionButton(inputId = "ERA", label = "ERA - DATASET"))
-)
+
 
 )
 
