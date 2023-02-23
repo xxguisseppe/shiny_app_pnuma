@@ -1,0 +1,185 @@
+ID	ERA_FALCI	ERA_VIVAX	PISCO_FALCI	PISCO_VIVAX
+COSTA CENTRO				
+COSTA NORTE	"<p align=""justify""; style=""font-size: 11px;font-family: arial, helvetica, sans-serif"">
+<b>Evaporación potencial</b></br>
+Valores sobre <b>-9.44 mm<b/> generan aumento en los casos de Malaria.
+<br><br><b>Mes</b></br>
+En la región en los meses de <b>mayo y junio</b>, aumenta la concentración de casos de Malaria. 
+</p>"	"<p align=""justify""; style=""font-size: 11px;font-family: arial, helvetica, sans-serif"">
+<b>Temperatura de punto de rocío</b></br>
+Valores por debajo <b>18,26°C<b/> genera una tendencia de aumento en los casos de Malaria.
+<br><br><b>Evaporación potencial</b></br>
+Valores mayores a <b>-9,12 mm<b/> genera una tendencia de aumento en los casos de Malaria.
+<br><br><b>Temperatura de la superficie de la tierra</b></br>
+Valores sobre <b>18,99 °C<b/> generan una fuerte tendencia de disminución en los casos de Malaria
+<br><br><b>Evaporación total</b></br>
+Valores superiores a <b>-1,52 mm<b/> genera una leve tendencia de aumento en los casos de Malaria.</p>"	"<p align=""justify""; style=""font-size: 11px;font-family: arial, helvetica, sans-serif"">
+<b>Valor máximo mensual de la temperatura máxima diaria</b></br>
+Valores entre <b>26,21 °C a 34,53 °C</b> genera un aumento en la tendencia de casos de Malaria. Luego, por encima de <b> 34,53 °C</b> la tendencia disminuye.</p>"	"<p align=""justify""; style=""font-size: 11px;font-family: arial, helvetica, sans-serif"">
+<b>Temperatura máxima</b></br>
+Valores sobre <b>30,55 °C hasta 32,26 °C</b> genera una ligera tendencia de aumento en los casos de Malaria.
+<br><br><b>Precipitación mensual acumulada</b></br>
+Valores sobre <b>20,82 mm hasta 52,05 mm</b> genera un aumento de la tendencia de casos de Malaria.
+<br><br><b>Valor máximo mensual de la temperatura mínima</b></br>
+Valores superiores a <b>15,33 °C hasta 24,02 °C</b> presentan un aumento en la tendencia de casos de Malaria.</p>"
+COSTA SUR				
+SELVA CENTRAL ALTA		"<p align=""justify""; style=""font-size: 11px;font-family: arial, helvetica, sans-serif"">
+<b>Temperatura de punto de rocío</b></br>
+Valores sobre <b>8,92 °C<b/> genera una tendencia de disminución en los casos de Malaria.
+<br><br><b>Temperatura de la superficie de la tierra</b></br>
+Valores mayores a <b>-17,96 °C<b/> genera una tendencia de aumento en los casos de Malaria.
+<br><br><b>Temperatura de la superficie de la tierra</b></br>
+Valores sobre <b>17,96 °C<b/> generan un aumento en los casos de Malaria.
+<br><br><b>Temperatura del aire a 2 m</b></br>
+Valores entre <b>-12,25 °C a 19,19 °C<b/> genera un aumento de tendencia del número de casos de Malaria.
+<br><br><b>Evaporación total</b></br>
+Valores mayores a <b>-2,89 mm</b> influyen en la tendencia de disminución de los casos de Malaria en la región.</p>"		"<p align=""justify""; style=""font-size: 11px;font-family: arial, helvetica, sans-serif"">
+<b>Temperatura máxima</b></br>
+Valores sobre <b>24,44 °C </b> genera una disminución en la tendencia de casos de Malaria.
+<br><br><b>Temperatura mínima</b></br>
+Valores sobre <b>8,72 °C</b> genera un rápido aumento de la tendencia de casos de Malaria.
+<br><br><b>Precipitación mensual acumulada</b></br>
+Valores superiores a <b>3,55 mm</b> genera una disminución de la tendencia en los casos de Malaria. 
+<br><br><b>Valor máximo mensual de la temperatura mínima diaria</b></br>
+Valores por encima de <b>19,12 °C</b> genera una leve disminución en la tendencia de los casos de Malaria.
+<br><br><b>Valor mínimo mensual de la temperatura máxima diaria</b></br>
+Valores sobre <b>8,94 °C</b> genera que aumente la tendencia de casos de Malaria.</p>"
+SELVA CENTRAL BAJA	"<p align=""justify""; style=""font-size: 11px;font-family: arial, helvetica, sans-serif"">
+<b>Temperatura punto de rocío</b></br>
+Valores sobre <b>18,44 °C<b/> generan disminución en los casos de Malaria.
+<br><br><b>Evaporación potencial</b></br>
+Valores superiores a <b>-24.49 mm</b> genera aumento en los casos de Malaria.</p>"	"<p align=""justify""; style=""font-size: 11px;font-family: arial, helvetica, sans-serif"">
+<b>Temperatura de punto de rocío</b></br>
+Valores sobre <b>13,23 °C<b/> genera una tendencia de aumento en los casos de Malaria.
+<br><br><b>Evaporación potencial</b></br>
+Valores mayores a <b>-25.09 mm<b/> genera una tendencia de disminución en los casos de Malaria.
+<br><br><b>Precipitación total</b></br>
+Valores sobre <b>13,25 mm<b/> generan una disminución en los casos de Malaria.</p>"	"<p align=""justify""; style=""font-size: 11px;font-family: arial, helvetica, sans-serif"">
+<b>Valor máximo mensual de la temperatura máxima diaria</b></br>
+Valores sobre <b>30,04 °C hasta 34,49 °C</b> genera un aumento en la tendencia de casos de Malaria.
+<br><br><b>Mes</b></br>
+Se puede observar que la <b>mayor concentración</b> de casos de Malaria se encuentran en los <b>meses de octubre a diciembre</b>.</p>"	"<p align=""justify""; style=""font-size: 11px;font-family: arial, helvetica, sans-serif"">
+<b>Temperatura mínima</b></br>
+Valores entre <b>16,64 °C a 21,74 °C </b> genera una disminución en la tendencia de casos de Malaria.
+<br><br><b>Valor máximo mensual de la temperatura máxima diaria</b></br>
+Valores sobre <b>32,87 °C</b> genera una disminución de la tendencia de casos de Malaria.
+<br><br><b>Valor mínimo mensual de la temperatura máxima diaria</b></br>
+Valores superiores a <b>27,13 °C</b> genera un aumento de la tendencia en los casos de Malaria. </p>"
+SELVA NORTE ALTA	"<p align=""justify""; style=""font-size: 11px;font-family: arial, helvetica, sans-serif"">
+<b>Precipitación total</b></br>
+Valores entre <b>1,07 mm a 13,6 mm <b/> generan un aumento en la presencia de casos de Malaria.
+<br><br><b>Mes</b></br>
+En la región, los meses entre <b>junio y agosto</b> se presentan la más baja concentración de casos de Malaria.</p>"	"<p align=""justify""; style=""font-size: 11px;font-family: arial, helvetica, sans-serif"">
+<b>Evaporación potencial</b></br>
+No se puede obtener un umbral o rango específico para encontrar las máximas o mínimas concentraciones de casos debido a que <b>existe una relación muy irregular</b> de la variable predictora con respecto a la cantidad de casos de Malaria.
+<br><br><b>Precipitación total</b></br>
+Valores mayores a <b>9,81 mm<b/> genera una ligera tendencia de aumento en los casos de Malaria.</p>"		"<p align=""justify""; style=""font-size: 11px;font-family: arial, helvetica, sans-serif"">
+<b> Valor máximo mensual de la temperatura máxima diaria </b></br>
+No se puede observar un umbral definido, dado que la variable predictora tiene un comportamiento irregular con respecto al número de casos.
+<br><br><b>Valor máximo mensual de la temperatura mínima diaria</b></br>
+Valores sobre <b>13,53 °C hasta 18,8 °C</b> genera un aumento de la tendencia de casos de Malaria. Sin embargo, a partir de <b>18,8 °C</b>, se genera una disminución de los casos.
+<br><br><b>Valor mínimo mensual de la temperatura máxima diaria</b></br>
+Valores superiores a <b>18,31 °C a 25.09 °C</b> genera un aumento de la tendencia en los casos de Malaria, mientras que sobre los <b>25,77 °C</b> disminuye su tendencia.
+<br><br><b>Valor mínimo mensual de la temperatura mínima diaria</b></br>
+Valores entre <b>9,57 °C y 13,76 °C</b> genera una tendencia de disminución en los casos de Malaria , mientras que cuando se presenta valores sobre <b>14,96 °C hasta 18,55 °C</b>, las tendencias aumentan.</p>"
+SELVA NORTE BAJA	"<p align=""justify""; style=""font-size: 11px;font-family: arial, helvetica, sans-serif"">
+<b>Temperatura de punto de rocío</b></br>
+Valores sobre <b>20,59 °C <b/>generan un aumento en la presencia de casos de Malaria, hasta los <b>23,59 °C </b>, que se detiene el aumento y se mantiene constante la cantidad de casos.
+<br><br><b>Evaporación potencial</b></br>
+Valor por encima de <b>-28,06 mm</b> genera una disminución en la cantidad de casos de Malaria presentados.
+<br><br><b>Temperatura del aire a 2m</b></br>
+Valores sobre <b>23,12 °C</b> genera una disminución en los casos de Malaria, mientras que valores entre <b>19,82 °C y 21,47 °C</b> presentan una tendencia de aumento.
+<br><br><b>Evaporación total</b></br>
+Valores sobre <b>-3,39 mm</b> genera un aumento de los casos de Malaria.
+<br><br><b>Precipitación total</b></br>
+Los casos se mantienen estables cuando se presentan valores de entre <b>0,84 mm a 17,52</b></p>"	"<p align=""justify""; style=""font-size: 11px;font-family: arial, helvetica, sans-serif"">
+<b>Temperatura de punto de rocío</b></br>
+Valores por encima de <b>22,11 °C </b> genera un aumento ligero en la tendencia de casos de Malaria.
+<br><br><b>Temperatura de la superficie de la tierra</b></br>
+Valores mayores a <b>18,7 °C<b/> genera una tendencia de aumento en los casos de Malaria.
+<br><br><b>Temperatura del aire</b></br>
+Valores por encima de <b>20,45 °C</b> genera una disminución de casos de Malaria.</p>"	"<p align=""justify""; style=""font-size: 11px;font-family: arial, helvetica, sans-serif"">
+<b>Temperatura máxima</b></br>
+Valores sobre <b>31,02 °C</b> genera una ligera disminución en los casos de Malaria.
+<br><br><b>Precipitación acumulada</b></br>
+Valores entre <b>12,38 mm hasta 395,16 mm</b> genera que los casos de Malaria disminuyan de forma ligera.
+<br><br><b>Valor máximo mensual de la temperatura máxima diaria</b></br>
+Valores entre <b>29,31 °C a 34,94 °C</b> genera una disminución ligera en la tendencia de casos de Malaria.
+<br><br><b>Valor máximo mensual de la temperatura mínima diaria</b></br>
+Valores sobre <b>19 °C hasta 22 °C</b> genera un aumento en la tendencia de casos de Malaria.
+<br><br><b>Valor mínimo mensual de la temperatura máxima diaria</b></br>
+Valores sobre <b>20,62 °C hasta 27,73 °C</b> genera un aumento en la tendencia de casos de Malaria. Sin embargo, valores sobre <b> 29,02 °C</b> los casos tienden a disminuir.
+<br><br><b>Mes</b></br>
+Entre los meses de <b> agosto y octubre</b> la concentración de casos tiende a aumentar</p>"	"<p align=""justify""; style=""font-size: 11px;font-family: arial, helvetica, sans-serif"">
+<b>Temperatura máxima</b></br>
+Valores sobre <b>26,68 °C a 29,6 °C</b> genera un aumento de la tendencia de casos de Malaria, mientras que sobre los <b> 30,76 °C</b> la tendencia de casos de Malaria disminuye.
+<br><br><b>Temperatura mínima</b></br>
+Valores sobre <b>17,21 °C </b> genera un aumento de la tendencia de casos de Malaria.
+<br><br><b>Valor máximo mensual de la temperatura mínima diaria</b></br>
+Valores entre <b>18,5 °C a 22,98 °C</b> genera un aumento de la tendencia en los casos de Malaria.
+<br><br><b>Valor mínimo mensual de la temperatura máxima diaria</b></br>
+Valores entre <b>19,63 °C y 24,45 °C</b> genera una tendencia de aumento de casos de Malaria.
+<br><br><b>Valor mínimo mensual de la temperatura mínima diaria</b></br>
+Valores sobre <b>13,64 °C a 18,97 °C</b> muestran una ligera disminución en la tendencia de casos de Malaria.</p>"
+SELVA SUR ALTA		"<p align=""justify""; style=""font-size: 11px;font-family: arial, helvetica, sans-serif"">
+<b>Temperatura de punto de rocío</b></br>
+Valores entre <b>7,96 °C a 13,11 °C</b> se observa un aumento en la tendencia de casos de Malaria.
+<br><br><b>Evaporación potencial</b></br>
+Valores mayores a <b>-13,8 mm<b/> genera una disminución en la tendencia de casos de Malaria.
+<br><br><b>Evaporación total</b></br>
+Valores por encima de <b>-2,49 mm</b> genera un aumento en los casos de Malaria.</p>"		"<p align=""justify""; style=""font-size: 11px;font-family: arial, helvetica, sans-serif"">
+<b>Temperatura mínima</b></br>
+Valores sobre <b>12,41 °C a 15,23 °C</b> genera un aumento de la tendencia de casos de Malaria.
+<br><br><b>Valor máximo mensual de la temperatura mínima diaria</b></br>
+Valores sobre <b>10,49 °C a 13,26 °C </b> genera un aumento de la tendencia de casos de Malaria.
+<br><br><b>Valor mínimo mensual de la temperatura máxima diaria</b></br>
+Valores entre <b>13,12 °C a 18,33°C</b> genera un aumento ligero de la tendencia en los casos de Malaria, mientras que sobre <b>21,31 °C</b> disminuye ligeramente la tendencia.</p>"
+SELVA SUR BAJA		"<p align=""justify""; style=""font-size: 11px;font-family: arial, helvetica, sans-serif"">
+<b>Temperatura de punto de rocío</b></br>
+Valores entre <b>16,04 °C a 23,77 °C</b> se observa una disminución en la tendencia de casos de Malaria.
+<br><br><b>Temperatura de superficie de la tierra</b></br>
+Valores entre <b>-19,17 °C a 22,1 °C<b/> generan una tendencia de disminución en los casos de Malaria., mientras que valores por encima de <b>23,35 °C </b> genera una tendencia de aumento.
+<br><br><b>Temperatura del aire a 2 m</b></br>
+Valores por encima de <b>-19,19 °C hasta los 22,9 °C</b> genera un aumento en los casos de Malaria.</p>"		"<p align=""justify""; style=""font-size: 11px;font-family: arial, helvetica, sans-serif"">
+<b>Temperatura máxima</b></br>
+Valores sobre <b>31,72 °C a 33,12 °C</b> genera una ligera disminución en la tendencia de casos de Malaria.
+<br><br><b>Precipitación acumulada mensual</b></br>
+Valores por encima de <b>5,01 mm </b> genera un aumento de la tendencia de casos de Malaria.
+<br><br><b>Mes</b></br>
+En la región se puede observar que durante los meses de <b>julio y agosto</b> se concentra la mayor cantidad de casos de Malaria.</p>"
+SIERRA CENTRO OCCIDENTAL				
+SIERRA CENTRO ORIENTAL				
+SIERRA NORTE OCCIDENTAL				
+SIERRA NORTE ORIENTAL	"<p align=""justify""; style=""font-size: 11px;font-family: arial, helvetica, sans-serif"">
+<b>Temperatura de punto de rocío</b></br>
+Valores mayores a <b>13,07 °C <b/>generan una disminución en la presencia de casos de Malaria, mientras que por debajo <b>8,01 °C</b> los casos aumentan.
+<br><br><b>Evaporación potencial</b></br>
+Valor por encima de <b>-7.09 mm</b> presenta una tendencia de aumento en los casos de Malaria, no obstante valores por debajo de <b>-9,16 mm</b>
+<br><br><b>Temperatura de superficie de la Tierra</b></br>
+Valores entre <b>11,11 °C a 12,57 °C y 18,41 °C a 21,33 °C</b> genera un aumento de casos de Malaria</p>"	"<p align=""justify""; style=""font-size: 11px;font-family: arial, helvetica, sans-serif"">
+<b>Evaporación potencial</b></br>
+Valores desde <b>-15,42 mm a -9,84 mm</b> se observa un aumento en la tendencia de casos de Malaria.
+<br><br><b>Temperatura de superficie de la tierra</b></br>
+Valores sobre <b>8,82 °C hasta 23,93 °C<b/> genera una tendencia de disminución en los casos de Malaria.
+<br><br><b>Evaporación total</b></br>
+Valores por encima de <b>-3,82 mm </b> genera un aumento en los casos de Malaria.
+<br><br><b>Precipitación total</b></br>
+Al aumentar los valores por encima de <b>6,31 mm</b> la tendencia de casos de Malaria disminuyen.</p>"	"<p align=""justify""; style=""font-size: 11px;font-family: arial, helvetica, sans-serif"">
+<b>Temperatura máxima</b></br>
+Valores sobre <b>18,68 °C a 22,75 °C y por encima 26 °C</b> genera una disminución en los casos de Malaria.
+<br><br><b>Valor mínimo mensual de la temperatura mínima diaria</b></br>
+Valores sobre <b>7,27 °C</b> genera una disminución de la tendencia de casos de Malaria.</p>"	"<p align=""justify""; style=""font-size: 11px;font-family: arial, helvetica, sans-serif"">
+<b>Valor máximo mensual de la temperatura mínima diaria</b></br>
+Valores entre <b>4,72 °C a 10,48 °C</b> genera un ligero aumento en la tendencia de casos de Malaria, mientras que valores sobre <b>12,13 °C</b> genera un ligero descenso.
+<br><br><b>Valor mínimo mensual de la temperatura mínima diaria</b></br>
+Valores entre <b>1,31 °C a 7,99 °C</b> genera un aumento ligero de la tendencia de casos de Malaria, no obstante, con valores sobre <b>10,85 °C</b> disminuye la tendencia.</p>"
+SIERRA SUR OCCIDENTAL				
+SIERRA SUR ORIENTAL		"<p align=""justify""; style=""font-size: 11px;font-family: arial, helvetica, sans-serif"">
+<b>Temperatura de punto de rocío</b></br>
+La tendencia de casos de Malaria guarda relación con el aumento de valores de temperatura desde <b>-5,81 °C</b>.
+<br><br><b>Evaporación potencial</b></br>
+Valores sobre <b>-8,92 mm <b/> genera una tendencia de disminución en los casos de Malaria.
+<br><br><b>Temperatura del aire a 2 m</b></br>
+Valores por encima de <b>13 °C hasta 15,54 °C</b> genera una disminución en los casos de Malaria.
+<br><br><b>Precipitación total</b></br>
+Valores acumulados promedio entre <b>0,22 mm a 7,95 mm</b> genera una ligera tendencia de disminución en los casos de Malaria.</p>"		
