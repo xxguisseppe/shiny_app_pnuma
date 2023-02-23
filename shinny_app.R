@@ -1,6 +1,6 @@
 
 # rm(list=ls())
-#setwd("e:/CDC_MINSA_PNUMA/Shiny_app/Disease_MINSA/")
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 library(rsconnect)
 library(recipes)
 library(shiny)
@@ -16,7 +16,7 @@ library(tidyverse)
 file_shape <- rgdal::readOGR("./SECTORES/SECTORES.shp")
 # MERGE DF with SPATIALDF
 #shp_fusion <- sp::merge(file_shape, df, by.x = "SECTOR", by.y = "sec")
-umbral <- read.table("DENGUE_v2.txt", header = T,sep = "\t")
+umbral <- read.table("./DENGUE_v2.txt", header = T,sep = "\t")
 
 ui <- navbarPage(title = tags$a(href ="/",
                                               img(class = "logo", src = "LOGO_CDC.png",#)), 
