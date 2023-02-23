@@ -16,7 +16,7 @@ library(tidyverse)
 file_shape <- rgdal::readOGR("./SECTORES/SECTORES.shp")
 # MERGE DF with SPATIALDF
 #shp_fusion <- sp::merge(file_shape, df, by.x = "SECTOR", by.y = "sec")
-umbral <- read.table("UMBRAL_v2.txt", header = T,sep = "\t")
+umbral <- read.table("DENGUE_v2.txt", header = T,sep = "\t")
 
 ui <- navbarPage(title = tags$a(href ="/",
                                               img(class = "logo", src = "LOGO_CDC.png",#)), 
