@@ -1,3 +1,6 @@
+## Need to install some packages if you are new on these
+## we need to check if we have all the data in here, especially the shapefiles
+## if the shp is more than 2mb you can put in a link drive
 
 rm(list=ls())
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
