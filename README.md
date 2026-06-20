@@ -98,7 +98,9 @@ The complete shapefile is required for the map to render. If `SECTORES/SECTORES.
 
 ## Author
 
-xxguisseppe
+**Guisseppe Vasquez**  
+GitHub: [@xxguisseppe](https://github.com/xxguisseppe)  
+LinkedIn: [Guisseppe Vasquez](https://www.linkedin.com/in/guisseppev-met/)
 
 ## License
 
