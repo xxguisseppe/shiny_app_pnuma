@@ -1,5 +1,5 @@
 # R Shiny dashboard for climate-related dengue and malaria thresholds in Peru.
-# Required spatial files should be available in SECTORES/.
+# Required spatial files should be available in data/spatial/.
 rm(list=ls())
 
 # Libraries
@@ -18,7 +18,7 @@ library(data.table)
 
 # Spatial data
 #Path shape file SECTORS
-file_shape <- st_read("./SECTORES/SECTORES.shp")
+file_shape <- st_read("./data/spatial/climate_sectors_peru.shp")
 file_shape2 <- rmapshaper::ms_simplify(file_shape,keep = 0.05, keep_shapes = TRUE)
 
 #--- Palete Color Map
@@ -30,13 +30,13 @@ factpal <- colorFactor(palette = sec_col, domain = pal)
 
 
 # Load Diseases data in html
-umbral_dengue <- fread("./DENGUE_v3.txt", header = T,sep = "\t")
-umbral_malaria <- fread("./MALARIA_v2.txt", header = T,sep = "\t")
+umbral_dengue <- fread("./data/disease/dengue_thresholds_peru.txt", header = TRUE,sep = "\t")
+umbral_malaria <- fread("./data/disease/malaria_thresholds_peru.txt", header = TRUE,sep = "\t")
 
 
 # User interface
 ui <- navbarPage(title = tags$a(href = "./www/",img(class = "logo", 
-                                                    src = "LOGO_CDC.png", 
+                                                    src = "images/cdc_logo.png", 
                                                     style = "margin-top:-5px; padding-right:15px",
                                                     height = "70px",width="605px")),
                  windowTitle = tags$b("CDC_DASH"),
@@ -45,7 +45,7 @@ ui <- navbarPage(title = tags$a(href = "./www/",img(class = "logo",
                           actionButton(inputId = "PISCO1", label = "PISCO-DATASET"),
                           actionButton(inputId = "ERA1", label = "ERA5-DATASET"),
                           fluidRow(column(width = 3, 
-                                          wellPanel(fluidRow(includeMarkdown("r_text.md")),
+                                          wellPanel(fluidRow(includeMarkdown("./docs/climate_threshold_context.md")),
                                                     style = "height:300px; background-color: #FDF5E6;"),
                                           wellPanel(fluidRow(HTML(
                                             paste("<p style='text-align: justify;'><b><span style='font-family: arial, helvetica, sans-serif;font-size: small;'>DESCRIPCION DE UMBRALES POR SECTOR CLIMATICO</span></b></p>")),
@@ -57,7 +57,7 @@ ui <- navbarPage(title = tags$a(href = "./www/",img(class = "logo",
                                      actionButton(inputId = "PISCO2", label = "PISCO-DATASET"),
                                      actionButton(inputId = "ERA2", label = "ERA5-DATASET"),
                                      fluidRow(column(width = 3,
-                                                     wellPanel(fluidRow(includeMarkdown("r_text.md")),
+                                                     wellPanel(fluidRow(includeMarkdown("./docs/climate_threshold_context.md")),
                                                                style = "height:300px; background-color: #FDF5E6;"),
                                                      wellPanel(fluidRow(HTML(
                                                        paste("<p style='text-align: justify;'><b><span style='font-family: arial, helvetica, sans-serif;font-size: small;'>DESCRIPCION DE UMBRALES POR SECTOR CLIMATICO</span></b></p>")),
@@ -68,7 +68,7 @@ ui <- navbarPage(title = tags$a(href = "./www/",img(class = "logo",
                                      actionButton(inputId = "PISCO3", label = "PISCO-DATASET"),
                                      actionButton(inputId = "ERA3", label = "ERA5-DATASET"),
                                      fluidRow(column(width = 3,
-                                                     wellPanel(fluidRow(includeMarkdown("r_text.md")),
+                                                     wellPanel(fluidRow(includeMarkdown("./docs/climate_threshold_context.md")),
                                                                style = "height:300px; background-color: #FDF5E6;"),
                                                      wellPanel(fluidRow(HTML(
                                                        paste("<p style='text-align: justify;'><b><span style='font-family: arial, helvetica, sans-serif;font-size: small;'>DESCRIPCION DE UMBRALES POR SECTOR CLIMATICO</span></b></p>")),

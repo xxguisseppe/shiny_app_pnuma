@@ -16,14 +16,12 @@ Provide an interactive tool to explore disease and climate threshold information
 
 ## Data Sources
 
-- Disease data: dengue and malaria threshold information for Peru, included as processed text tables.
+- Disease data: processed dengue and malaria threshold tables for Peru in `data/disease/`.
 - PISCO climate dataset: gridded climate information for Peru.
 - ERA5 climate dataset: reanalysis climate variables used for environmental interpretation.
-- Climatic sectors: spatial sector boundaries stored in `SECTORES/`.
+- Climatic sectors: spatial sector boundaries stored as a shapefile in `data/spatial/`.
 
-The current repository includes partial shapefile components and a download reference for the complete `SECTORES` spatial data. The complete sector data can be downloaded from:
-
-https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBcUpXdEZGSTJpanloM0c5X1hzVEN0amx3bVFaP2U9VDlENlRP&id=F228DA4851B456A2%211009&cid=F228DA4851B456A2
+A backup download reference for the complete sector data is documented in `docs/spatial_data_download_link.txt`.
 
 ## Dashboard Features
 
@@ -31,28 +29,39 @@ https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBcUpXdEZGSTJpanloM0
 - Separate views for dengue, malaria falciparum, and malaria vivax.
 - PISCO and ERA5 buttons for switching climate-threshold messages.
 - Sector-level popups and dynamic explanatory text.
-- CDC logo assets stored in `www/`.
+- CDC logo assets served from `www/images/`.
 
 ## Repository Structure
 
 ```text
 .
-├── app.R
-├── DENGUE_v3.txt
-├── MALARIA_v2.txt
-├── r_text.md
-├── SECTORES/
-├── www/
-├── LICENSE
-└── README.md
+|-- app.R
+|-- data/
+|   |-- disease/
+|   |   |-- dengue_thresholds_peru.txt
+|   |   `-- malaria_thresholds_peru.txt
+|   `-- spatial/
+|       |-- climate_sectors_peru.cpg
+|       |-- climate_sectors_peru.dbf
+|       |-- climate_sectors_peru.prj
+|       |-- climate_sectors_peru.shp
+|       `-- climate_sectors_peru.shx
+|-- docs/
+|   |-- climate_threshold_context.md
+|   `-- spatial_data_download_link.txt
+|-- www/
+|   `-- images/
+|       |-- cdc_logo.jpg
+|       `-- cdc_logo.png
+|-- LICENSE
+`-- README.md
 ```
 
 ## How to Run
 
 1. Open this repository in RStudio or another R environment.
-2. Make sure the complete `SECTORES` shapefile is available inside `SECTORES/`, including `SECTORES.shp` and its companion files.
-3. Install the required R packages.
-4. Run the app:
+2. Install the required R packages.
+3. Run the app:
 
 ```r
 shiny::runApp(".")
@@ -71,7 +80,8 @@ install.packages(c(
   "rmapshaper",
   "data.table",
   "recipes",
-  "rsconnect"
+  "rsconnect",
+  "markdown"
 ))
 ```
 
@@ -79,7 +89,11 @@ install.packages(c(
 
 The disease files in this repository appear to contain processed sector-level messages rather than raw surveillance records. The repository does not include sensitive personal data.
 
-The complete shapefile is required for the map to render. If `SECTORES/SECTORES.shp` is missing, the app will not start successfully.
+The map depends on the shapefile stored in `data/spatial/`. The app reads it from:
+
+```r
+./data/spatial/climate_sectors_peru.shp
+```
 
 ## Skills Demonstrated
 
@@ -92,13 +106,12 @@ The complete shapefile is required for the map to render. If `SECTORES/SECTORES.
 
 ## Limitations
 
-- The app depends on external spatial data that may need to be downloaded separately.
 - The included disease tables are processed and do not document the full raw-data workflow.
 - Package versions are not currently locked with `renv`.
 
 ## Author
 
-xxguisseppe
+Guisseppe Vasquez
 
 ## License
 
