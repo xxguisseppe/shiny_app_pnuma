@@ -111,7 +111,9 @@ The map depends on the shapefile stored in `data/spatial/`. The app reads it fro
 
 ## Author
 
-Guisseppe Vasquez
+**Guisseppe Vasquez**  
+GitHub: [@xxguisseppe](https://github.com/xxguisseppe)  
+LinkedIn: [Guisseppe Vasquez](https://www.linkedin.com/in/guisseppev-met/)
 
 ## License
 
